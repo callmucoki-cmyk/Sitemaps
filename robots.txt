@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap for Google
+Sitemap: https://raw.githubusercontent.com/callmucoki-cmyk/Sitemaps/main/sitemap.xml
+
+# Tell Google about this repository's sitemaps
+Sitemap: https://luxorita.store/sitemap.xml
