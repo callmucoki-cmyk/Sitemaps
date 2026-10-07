@@ -54,6 +54,6 @@ Sitemap: https://luxorita.store/sitemap.xml
 
 ## Current Stats
 
-- Total URLs: 21
+- Total URLs: unlimited 
 - Last Updated: 2026-10-07
 - Format: XML 1.0 UTF-8
